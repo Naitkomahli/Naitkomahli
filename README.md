@@ -1,4 +1,4 @@
-# 💫 Hi there, I'm Ilham Oktian Ramadhan (Tyan) 👋
+# 💫 Hi there, I'm Ilham Oktian Ramadhan 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/) 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ilhamoktianramadhan@gmail.com)
