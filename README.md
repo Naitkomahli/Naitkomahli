@@ -1,56 +1,182 @@
-# 💫 Hi there, I'm Ilham Oktian Ramadhan 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/) 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ilhamoktianramadhan@gmail.com)
-
-🎓 **Computer Science Graduate (S.Kom)** from Dian Nuswantoro University (IPK 3.72)  
-💻 **Frontend & Fullstack Web Developer** with hands-on experience in **Machine Learning** & **AI Integration**  
-💡 *"The only way to do great work is to love what you do."* – Steve Jobs
-
----
-
-### 🚀 Featured Projects
-
-- 💳 **[SpendScan](https://github.com/Naitkomahli)** — Mobile Expense Tracker with AI Receipt Scanner (React Native, Express.js, Supabase, Groq Vision API).
-- 🏛️ **[Aspirasi Masyarakat](https://github.com/Naitkomahli)** — Citizen Reporting & Public Aspiration Web App built for Diskominfo Semarang (PHP, MySQL, Bootstrap).
-- 🧠 **[Mental Health Detection](https://github.com/Naitkomahli)** — Machine Learning Web App for detecting mental health conditions (Python, SVM, Streamlit).
-- 📋 **[Daily To-Do & Habit Tracker](https://github.com/Naitkomahli)** — Productivity App with daily auto-reset and personal authentication (React, Vite, Firebase, Tailwind CSS).
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks:**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend, Database & ML:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Tools & Design:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">Hi there, I'm Ilham Oktian Ramadhan 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naitkomahli&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naitkomahli&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <strong>Computer Science Graduate (S.Kom) • Frontend & Fullstack Web Developer</strong>
+</p>
+
+<p align="center">
+  Passionate about building web applications, exploring AI integration, and turning ideas into useful digital products.
+</p>
+
+<p align="center">
+  <a href="mailto:ilhamoktianramadhan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Naitkomahli">
+    <img src="https://img.shields.io/badge/GitHub-Naitkomahli-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
 ---
 
-📫 **How to reach me:** [ilhamoktianramadhan@gmail.com](mailto:ilhamoktianramadhan@gmail.com)
+## 👨‍💻 About Me
+
+🎓 **Computer Science Graduate (S.Kom)** from **Dian Nuswantoro University** with a **GPA of 3.72**.
+
+💻 Interested in **Frontend & Fullstack Web Development**, with hands-on experience building web and mobile applications.
+
+🤖 Experienced in **Machine Learning** and **AI Integration**, including computer vision-based receipt processing.
+
+🚀 I enjoy learning new technologies, building practical projects, and continuously improving my software development skills.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,sql" alt="Languages">
+</p>
+
+### ⚛️ Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,reactnative,vite,tailwind,bootstrap,express,streamlit" alt="Frameworks and Libraries">
+</p>
+
+### 🗄️ Backend, Database & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,supabase,firebase,python" alt="Backend Database and AI">
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,postman" alt="Tools and Platforms">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 💳 SpendScan
+
+AI-powered mobile expense tracker that extracts transaction information from receipts.
+
+**Tech:** React Native • Express.js • Supabase • Groq Vision API
+
+<a href="https://github.com/Naitkomahli">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="SpendScan">
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🏛️ Aspirasi Masyarakat
+
+Citizen reporting and public aspiration web application developed during an internship at Diskominfo Semarang.
+
+**Tech:** PHP • MySQL • Bootstrap
+
+<a href="https://github.com/Naitkomahli">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Aspirasi Masyarakat">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Mental Health Detection
+
+Machine learning web application for mental health classification using Support Vector Machine.
+
+**Tech:** Python • SVM • Scikit-learn • Streamlit
+
+<a href="https://github.com/Naitkomahli">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mental Health Detection">
+</a>
+
+</td>
+
+<td width="50%">
+
+### 📋 Daily To-Do & Habit Tracker
+
+Productivity application featuring authentication, daily task management, and automatic daily reset.
+
+**Tech:** React • Vite • Firebase • Tailwind CSS
+
+<a href="https://github.com/Naitkomahli">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Daily To-Do Habit Tracker">
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naitkomahli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naitkomahli&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Naitkomahli&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Frontend Development  ███████████████████░░  React • JavaScript • UI/UX
+Backend Development   ████████████████░░░░░  Node.js • Express.js • PHP
+Fullstack Development ███████████████░░░░░░  REST API • Database • Authentication
+AI Integration        ████████████░░░░░░░░░  Computer Vision • AI APIs • Automation
+```
+
+---
+
+## 🎯 What I'm Interested In
+
+* 🌐 Frontend & Fullstack Web Development
+* ⚛️ React & Modern JavaScript Ecosystem
+* 🗄️ Backend & Database Development
+* 🤖 AI Integration & Machine Learning
+* 📱 Mobile Application Development
+* 🚀 Building practical and user-focused digital products
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:ilhamoktianramadhan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ilhamoktianramadhan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Naitkomahli">
+    <img src="https://img.shields.io/badge/GitHub-Naitkomahli-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<p align="center">
+  <i>“The only way to do great work is to love what you do.”</i>
+  <br>
+  — Steve Jobs
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
