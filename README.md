@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ilham Oktian Ramadhan 👋</h1>
 
 <p align="center">
-  <strong>Computer Science Graduate (S.Kom) • Frontend & Fullstack Web Developer</strong>
+  <strong>Computer Science Graduate (S.Kom) • Machine Learning & Web Developer</strong>
 </p>
 
 <p align="center">
