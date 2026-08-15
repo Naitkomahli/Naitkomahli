@@ -1,7 +1,7 @@
 # Ilham Oktian Ramadhan (Tyan)
 
 <p align="center">
-  <strong>Fullstack & Backend Developer • ML & AI Integration Enthusiast</strong>
+  <strong>Web Developer • ML & AI Integration Enthusiast</strong>
   <br>
   Building web & mobile solutions | Fresh CS Graduate (GPA 3.72)
 </p>
